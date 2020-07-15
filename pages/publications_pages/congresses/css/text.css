@@ -4,10 +4,6 @@
 	overflow: hidden;
 }
 
-.widget-text .image-block > img {
-	display: block;
-}
-
 .widget-text .image-block > span {
 	display: block;
 	padding: 0 0 10px 0;

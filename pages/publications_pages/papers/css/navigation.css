@@ -1,5 +1,5 @@
 .widget-navigation .widget-content > a {
-	background: url('menu-toggle.png') no-repeat center;
+	background: url('../image/menu-toggle.png') no-repeat center;
 	display: none;
 	height: 30px;
 	width: 30px;
